@@ -24,6 +24,8 @@ Navigate to
 ```
 localhost:8080
 ```
+Firstly, the metadata DAGS need to be activated by pressing their unpause button next to the name.
+
 Using the username and password "airflow" we navigate to Admin -> Connections and Add a new Connection with the following configurations
 
 * connection_id: postgres_default
