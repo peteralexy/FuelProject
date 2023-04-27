@@ -1,0 +1,11 @@
+{
+    "neurons": 2,
+    "number_of_layers": 3,
+    "validation_split": 0.25,
+    "loss": "mean_absolute_error",
+    "kernel_initializer": "glorot_uniform",
+    "kernel_regularizer": null,
+    "activation": "relu",
+    "learning_rate": 0.1,
+    "epochs": 100
+}
